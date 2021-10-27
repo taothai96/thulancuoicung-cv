@@ -9,6 +9,7 @@ function App() {
         <p>
           Tạo thái
         </p>
+        <p>Xin chao moi nguoi</p>
       </header>
     </div>
   );
